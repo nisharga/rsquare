@@ -1,0 +1,10 @@
+.media_Name h2 {
+  font-family: Manrope;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 16px;
+}
+
+.top_minus {
+  margin-top: -5px;
+}
