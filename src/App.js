@@ -1,12 +1,11 @@
 import "./App.css";
-import Login from "./Components/Login/Login";
+import Mediagallery from "./Components/Mediagallery/Mediagallery";
 import Medialibrary from "./Components/Medialibrary/Medialibrary";
-import Signup from "./Components/Signup/Signup";
 
 function App() {
   return (
     <div>
-      <Medialibrary />
+      <Mediagallery />
     </div>
   );
 }
